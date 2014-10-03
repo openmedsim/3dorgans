@@ -1,0 +1,563 @@
+10 com.apple.Safari.SearchSuggestionsRequested
+10 com.apple.automation.amworkflow_run
+10 com.apple.automation.app_launched
+10 com.apple.automation.applescriptobjc_load
+10 com.apple.automation.applet_launched
+10 com.apple.automation.automator_action_run
+10 com.apple.automation.automator_run
+10 com.apple.automation.automator_tool_run
+10 com.apple.automation.automator_workflow_run
+10 com.apple.automation.coercion
+10 com.apple.automation.do_shell_script
+10 com.apple.automation.folder_action_triggered
+10 com.apple.automation.nsuserscripttask_run
+10 com.apple.automation.osaexecute_run
+10 com.apple.automation.osascript_tool_run
+10 com.apple.automation.script_editor_run
+10 com.apple.automation.scripting_addition_handler_called
+10 com.apple.automation.scripting_dictionary_loaded
+10 com.apple.automation.system_events_suite_used
+10 com.apple.backupd.backupResult
+10 com.apple.backupd.backupStats
+10 com.apple.calendar.sync_malfunction
+10 com.apple.db.preferences
+10 com.apple.db.usage.opened
+10 com.apple.db.usage.time
+10 com.apple.db.usage.widget.active
+10 com.apple.finder.view_style
+10 com.apple.flplugin.time
+10 com.apple.ibooksx.annotation_created
+10 com.apple.ibooksx.collection_created
+10 com.apple.ibooksx.collection_updated
+10 com.apple.ibooksx.library_updated
+10 com.apple.ibooksx.note_added
+10 com.apple.ibooksx.page_changed
+10 com.apple.ibooksx.store_launched
+10 com.apple.inputmethod.CIM.inputmode
+10 com.apple.launchpad.app.launched
+10 com.apple.launchpad.database.failure
+10 com.apple.launchpad.database.fatal_failure
+10 com.apple.launchpad.database.incomplete
+10 com.apple.launchpad.group.made
+10 com.apple.launchpad.initial_import_time
+10 com.apple.launchpad.item.added
+10 com.apple.launchpad.item.opened
+10 com.apple.launchpad.opened
+10 com.apple.launchpad.reordered
+10 com.apple.mDNSResponder.statistics
+10 com.apple.mail.accountLocalStorageType
+10 com.apple.mail.accounts
+10 com.apple.mail.accounts.connectionFailures
+10 com.apple.mail.classicLayout
+10 com.apple.mail.fullScreenUsage
+10 com.apple.mail.preferences
+10 com.apple.mail.usage
+10 com.apple.printing.printdialog.pdeselected
+10 com.apple.printing.printdialog.unsandboxedpde
+10 com.apple.remotedesktop.manage.v002
+10 com.apple.security.assessment.current_state
+10 com.apple.security.assessment.outcome2
+10 com.apple.syncservices.active
+10 com.apple.syncservices.pull
+10 com.apple.syncservices.push
+10 com.apple.syncservices.snapshot
+10 com.apple.telemetry.battery.charge-cycle
+10 com.apple.telemetry.battery.daily
+10 com.apple.telemetry.cstates.daily
+10 com.apple.telemetry.fan
+10 com.apple.telemetry.memory.daily
+10 com.apple.telemetry.psr
+10 com.apple.telemetry.standby
+10 com.apple.telemetry.standby.details
+10 com.apple.ubd.download
+10 com.apple.ubd.metadata.request
+10 com.apple.ubd.startup.time
+10 com.apple.ubd.upload
+100 com.apple.Preview.Editing
+100 com.apple.Preview.Features
+100 com.apple.Preview.FileOpened
+100 com.apple.Preview.Search
+100 com.apple.Preview.Tools
+100 com.apple.Preview.WindowOpened
+100 com.apple.QuickTimePlayerX.PlaybackStatistics
+100 com.apple.bluetooth.connect
+100 com.apple.bluetooth.interval
+100 com.apple.calendar.deep_refresh
+100 com.apple.calendar.navigation.swipe_lag
+100 com.apple.calendar.operation_process_error
+100 com.apple.contacts.autocomplete.request
+100 com.apple.contacts.autocomplete.result.local
+100 com.apple.contacts.autocomplete.result.server
+100 com.apple.contacts.contactdeleting
+100 com.apple.contacts.contactpicker.usage
+100 com.apple.contacts.printing
+100 com.apple.dock.app.launched
+100 com.apple.dock.appexpose.shown
+100 com.apple.dock.binding
+100 com.apple.dock.commandtab.shown
+100 com.apple.dock.desktop.shown
+100 com.apple.dock.desktoppicture.database.failure
+100 com.apple.dock.double_clicked
+100 com.apple.dock.missioncontrol.opened
+100 com.apple.dock.missioncontrol.preferences
+100 com.apple.dock.missioncontrol.shown
+100 com.apple.dock.preferences
+100 com.apple.dock.stack.opened
+100 com.apple.dock.switched_displays
+100 com.apple.dock.window.minimized
+100 com.apple.inputmethod.CIM.keyspressed
+100 com.apple.nc.app.preferences
+100 com.apple.nc.preferences
+100 com.apple.nc.usage.app.activated
+100 com.apple.nc.usage.app.cleared
+100 com.apple.nc.usage.app.notification.action_selected
+100 com.apple.nc.usage.app.notification.closed
+100 com.apple.nc.usage.app.notification.delivered
+100 com.apple.nc.usage.app.notification.replied_to
+100 com.apple.nc.usage.app.notification.snoozed
+100 com.apple.nc.usage.button.clicked
+100 com.apple.nc.usage.opened
+100 com.apple.open.application
+100 com.apple.open.document
+100 com.apple.runtime.gcusage
+100 com.apple.screensharing.addressResolutionEnded
+100 com.apple.screensharing.appLaunch
+100 com.apple.screensharing.attemptAuthentication
+100 com.apple.screensharing.authenticationEnded
+100 com.apple.screensharing.connectionStarted
+100 com.apple.screensharing.kerberosFailure
+100 com.apple.screensharing.logConfiguration
+100 com.apple.screensharing.sessionEnded
+100 com.apple.screensharing.unexpectedErrorOcurred
+100 com.apple.spotlight.menu.search.usage4
+100 com.apple.usage.ui_language
+100 com.apple.wake.failure
+100 com.apple.wifi.anqp
+100 com.apple.wifi.association
+100 com.apple.wifi.autojoin
+100 com.apple.wifi.autojoin.missed_network
+100 com.apple.wifi.bluetooth_coex
+100 com.apple.wifi.driver.broadcom.assertions
+100 com.apple.wifi.driver.broadcom.beacon_loss
+100 com.apple.wifi.driver.broadcom.card_not_found
+100 com.apple.wifi.dropped_connection
+100 com.apple.wifi.power_off
+100 com.apple.wifi.rapid_link_transition
+100 com.apple.wifi.scanning
+100 com.apple.wifi.usage.ibss
+100 com.apple.wifi.usage.join
+100 com.apple.wifi.usage.preferences
+100 com.apple.wifi.usage.swap
+100 com.apple.windowserver.displayarrangement.v2
+100 com.apple.windowserver.hotplug
+100 com.apple.windowserver.session.check-in
+100 com.apple.windowserver.session.display.change
+100 com.apple.windowserver.session.spaces.fullscreen.begin
+100 com.apple.windowserver.session.spaces.fullscreen.end
+1000 com.apple.calendar.monthViewEvents
+1000 com.apple.calendar.store.inconsistency
+1000 com.apple.inputmethod.inputStringCount
+1000 com.apple.spotlight.mds.index-lifecycle
+120 com.apple.type_blacklist.25
+2 com.apple.usage.display_resolution_pref
+2 com.apple.windowserver.displayinfo.v2
+20 com.apple.BezelServices.DrvSvc
+20 com.apple.MacAppStore.purchase
+20 com.apple.MultitouchSupport.gesturestats
+20 com.apple.apsd.15788972
+20 com.apple.darkwake.backgroundtasks
+20 com.apple.darkwake.capable
+20 com.apple.darkwake.pushservicetasks
+20 com.apple.darkwake.pushservicetimeouts
+20 com.apple.darkwake.thermalevent
+20 com.apple.darkwake.wakes
+20 com.apple.finder.tagging_gmstats
+20 com.apple.kernel.cs.mismatch
+20 com.apple.kernel.external_modification
+20 com.apple.screenunlock.attempts
+20 com.apple.screenunlock.standbytiming
+20 com.apple.screenunlock.timing
+20 com.apple.suis.menuextra.active
+20 com.apple.suis.menuextra.shown
+20 com.apple.system_preferences.auto_login_status
+20 com.apple.system_preferences.disk_sleep
+20 com.apple.systempreferences.customshowall
+20 com.apple.systempreferences.method
+20 com.apple.systempreferences.showall
+20 com.apple.systempreferences.visited
+20 com.apple.type_blacklist.22
+20 com.apple.usage.web_browser_choice
+20 com.apple.windowserver.session.spaces.user.usage-change
+200 com.apple.telemetry.processes.daily
+5 com.apple.MacAppStore.autoupdate.app
+5 com.apple.MacAppStore.autoupdate.osupdate
+5 com.apple.MacAppStore.doitlater.disarm_observer
+5 com.apple.MacAppStore.download_done_2
+5 com.apple.MacAppStore.performance.launch
+5 com.apple.MacAppStore.url_load_event
+5 com.apple.MacAppStore.whatsnew.menuitem.clicked
+5 com.apple.MacAppStore.whatsnew.notification.posted
+5 com.apple.RawCamera.OpenSupported
+5 com.apple.RawCamera.OpenUnsupported
+5 com.apple.iChat.app.general_prefs
+5 com.apple.iChat.app.out_of_order_messages
+5 com.apple.iChat.autoCompletion
+5 com.apple.kernel.cs.invalidate
+5 com.apple.kernel.cs.replace
+5 com.apple.mac_app_store.weekly.auto_uptdate.opt_in
+5 com.apple.screencapture.capture
+50 com.apple.commssw.ethernet.broadcom.link
+50 com.apple.commssw.ethernet.broadcom.load
+50 com.apple.libkext.kext.loading.v3
+50 com.apple.massStorage.ssdStatistics.nandStatistics
+50 com.apple.printing.presets
+50 com.apple.printing.printdialog.printdialogtype
+50 com.apple.printing.printdialog.printjobtype
+50 com.apple.remotedesktop.applicationLaunched.v002
+50 com.apple.type_blacklist.23
+com.apple.Aperture.orderHandler
+com.apple.Aperture.upgrade.end
+com.apple.Aperture.upgrade.start
+com.apple.Aperture.upgrade.terminate
+com.apple.Aperture.volume
+com.apple.BezelServices.EDM
+com.apple.CharacterPalette.window
+com.apple.FaceTimeX.callEnded
+com.apple.Gatekeeper.Gatekeeper
+com.apple.Gatekeeper.anywhereChoiceSheet
+com.apple.LanguageTextPreferences.didAccessRegionCustomizeSettings
+com.apple.MacAppStore.adi.restart_provisioning
+com.apple.MacAppStore.adi.start_provisioning
+com.apple.MacAppStore.adi.synchronize
+com.apple.MacAppStore.autoupdate.opt_in
+com.apple.MacAppStore.autoupdate.terminate_app
+com.apple.MacAppStore.doitlater.arm_observer
+com.apple.MacAppStore.noticeboard.activated
+com.apple.MacAppStore.noticeboard.dismissed
+com.apple.MacAppStore.noticeboard.posted
+com.apple.MacAppStore.noticeboard.teardown
+com.apple.MacAppStore.osupdate.details
+com.apple.MacAppStore.osupdate.started
+com.apple.MacAppStore.osupdate.stopped
+com.apple.MacAppStore.preflight
+com.apple.MacAppStore.update_notification.clicked
+com.apple.PhotoBooth.app.appliedEffects
+com.apple.PhotoBooth.app.capturedEffects
+com.apple.QuickTimePlayerX.Export_Preset_Identifier
+com.apple.QuickTimePlayerX.RecordingQuality
+com.apple.ReportPanic.matchedpanic
+com.apple.Safari.ClearHistory.Opened
+com.apple.Safari.Extensions.Detail
+com.apple.Safari.Extensions.Enabled
+com.apple.Safari.Extensions.Summary
+com.apple.Safari.SharedLinks
+com.apple.Safari.SharedLinks.Visited
+com.apple.Safari.TabView.Entered
+com.apple.SoftwareUpdate.SystemVersionChanged
+com.apple.SubmitDiagInfo.SubmissionTime
+com.apple.addprinter.connectiontype
+com.apple.airplay.device_available
+com.apple.airplay.duration
+com.apple.airport.airportutility.config.assistant
+com.apple.airport.airportutility.config.firmware
+com.apple.airport.airportutility.config.manual
+com.apple.airport.airportutility.config.problem
+com.apple.airport.airportutility.usage.open
+com.apple.airport.airportutility.usage.topo
+com.apple.apd.display-coaching-tips-set
+com.apple.apd.learn-more-link-clicked
+com.apple.appkit.image.pictUsage
+com.apple.audiomusic.audiohw
+com.apple.audiomusic.controlsurface
+com.apple.audiomusic.download
+com.apple.audiomusic.feature
+com.apple.audiomusic.info
+com.apple.audiomusic.ioconfig
+com.apple.audiomusic.midihw
+com.apple.audiomusic.plugin
+com.apple.audiomusic.rewire
+com.apple.audiomusic.template
+com.apple.awacsd.SessionBandwidth
+com.apple.awacsd.UDPHolePunch
+com.apple.backupd.backupVerification.result
+com.apple.backupd.backupVerification.time.CopyMeta
+com.apple.backupd.backupVerification.time.fsck_hfs
+com.apple.backupd.backupVerification.time.total
+com.apple.batterymenuextra.appcount
+com.apple.batterymenuextra.signature
+com.apple.bluetooth.firmwareupdate
+com.apple.bluetooth.usage
+com.apple.boot_camp.build_version
+com.apple.calendar.alarms
+com.apple.calendar.corrupt_recent_attendee
+com.apple.calendar.navigation.mode
+com.apple.calendar.operation_process_count
+com.apple.calendar.traveltime
+com.apple.camera.active
+com.apple.cloudkeychain.deviceIsUsingICloudKeychain
+com.apple.cloudkeychain.numberOfItemsBeingSynced
+com.apple.cloudkeychain.numberOfPeers
+com.apple.commssw.ethernet.asix.link
+com.apple.commssw.ethernet.asix.load
+com.apple.commssw.ftdi.device
+com.apple.commssw.wwan.device
+com.apple.compressor.distributedprocessingbatches
+com.apple.compressor.distributedprocessingservices
+com.apple.compressorkit.h264usage
+com.apple.compressorkit.jobaction
+com.apple.compressorkit.transcodesetting
+com.apple.compressorkit.transcodesource
+com.apple.configurationprofiles.mdm.enrollment
+com.apple.configurationprofiles.payloadinstalled
+com.apple.configurationprofiles.payloadremoved
+com.apple.configurationprofiles.prelogin
+com.apple.configurator.apply
+com.apple.configurator.checkin
+com.apple.configurator.checkout
+com.apple.configurator.conformance
+com.apple.configurator.device.class
+com.apple.configurator.import.app
+com.apple.configurator.launched
+com.apple.configurator.operation.result
+com.apple.configurator.prepare.v2
+com.apple.configurator.profile.create
+com.apple.configurator.profile.export
+com.apple.configurator.profile.import
+com.apple.configurator.refresh
+com.apple.coreservices.app_capability_is_disabled.nap
+com.apple.crash_reporter.bear_trap
+com.apple.crashreporter.reporter_verify
+com.apple.crashreporter.writereport.cpu_resource.spin
+com.apple.crashreporter.writereport.crash
+com.apple.crashreporter.writereport.hang
+com.apple.crashreporter.writereport.panic
+com.apple.crashreporter.writereport.spin
+com.apple.dictationX.finishedRecognition
+com.apple.dictationX9.finishedRecognition
+com.apple.diskmanagement.repairdisk_fsck.repair.end
+com.apple.diskmanagement.repairdisk_fsck.verify.end
+com.apple.diskmanagement.repairdisk_part.repair.end
+com.apple.diskmanagement.repairdisk_part.verify.end
+com.apple.diskmanagement.repairdisk_perm.repair.end
+com.apple.diskmanagement.repairdisk_perm.verify.end
+com.apple.diskmanagement.resetuser.end
+com.apple.driver.AppleIntelMCEReporter.DIMM_ECC_Error
+com.apple.driver.AppleIntelMCEReporter.ThrottleThresholdExceeded
+com.apple.dt.ide.v1.cltools
+com.apple.dt.ide.v1.cltools_requested_install
+com.apple.dt.ide.v1.debug_compression_changed
+com.apple.dt.ide.v1.debug_compression_inital
+com.apple.dt.ide.v1.debug_mini_active
+com.apple.dt.ide.v1.debug_mini_toggled
+com.apple.dt.ide.v1.device_restore
+com.apple.dt.ide.v1.editor_coredata
+com.apple.dt.ide.v1.editor_ib
+com.apple.dt.ide.v1.editor_sourcecode_theme
+com.apple.dt.ide.v1.editor_sourcecode_user_pref
+com.apple.dt.ide.v1.indexer_clean_workspace
+com.apple.dt.ide.v1.initialized
+com.apple.dt.ide.v1.ios_run_report
+com.apple.dt.ide.v1.quit
+com.apple.dt.ide.v1.scheme_operation_performed
+com.apple.dt.ide.v1.scm
+com.apple.dt.ide.v1.screenshot_made_into_launchimage
+com.apple.dt.ide.v1.screenshot_taken
+com.apple.dt.ide.v1.server_accounts
+com.apple.dt.ide.v1.server_editor_navto_otherdoc
+com.apple.dt.ide.v1.server_editor_navto_tab
+com.apple.dt.ide.v1.server_nav_loadmore
+com.apple.dt.ide.v1.server_nav_tobot
+com.apple.dt.ide.v1.server_nav_tointegration
+com.apple.dt.ide.v1.workspace
+com.apple.dvdplayback.usage
+com.apple.exchange.iCal.accountSetup.configureMailAccount
+com.apple.exchange.iCal.accountSetup.configureiCalAccount
+com.apple.exchange.mail.accountSetup.configureAddressBookAccount
+com.apple.exchange.mail.accountSetup.configureiCalAccount
+com.apple.exchange.serverversion.v2
+com.apple.filestats.run
+com.apple.filestats.run2
+com.apple.finalcutpro.appstats
+com.apple.finalcutpro.audiounit
+com.apple.finalcutpro.stats
+com.apple.firstLogin.mechanism
+com.apple.gatekeeper.bis
+com.apple.gold.flake
+com.apple.handwriting.zh-Hans
+com.apple.hardware_fault.blc
+com.apple.helpviewer.content
+com.apple.helpviewer.usagestats
+com.apple.hidfwupdate.mlbAudioLEDCinemaDisplay
+com.apple.iChat.app.applied_effects
+com.apple.iChat.app.audioChatEnded
+com.apple.iChat.app.prefs
+com.apple.iChat.app.recording_avchat
+com.apple.iChat.app.screenSharingEnded
+com.apple.iChat.app.servicesUsedThisWeek
+com.apple.iChat.app.videoChatEnded
+com.apple.iChat.app.weeklyStats
+com.apple.iPhoto.photostream-agent.database-consistency
+com.apple.iPhoto.prerelease.usageStats.launch
+com.apple.iPhoto.prerelease.usageStats.libraryDisc
+com.apple.iPhoto.prerelease.usageStats.localPrint
+com.apple.iPhoto.prerelease.usageStats.terminate
+com.apple.iPhoto.usageStats.webAccounts
+com.apple.iPhoto.volume
+com.apple.iTunes.app.weeklyStats
+com.apple.ichat.app.alert_prefs
+com.apple.ichat.app.av_prefs
+com.apple.imovie.appstats
+com.apple.imovie.import
+com.apple.imovie.share.destination
+com.apple.imovie.share.type
+com.apple.imovie.stats
+com.apple.imovie.theater
+com.apple.imovie.timeline
+com.apple.installer.createrecovery
+com.apple.instruments.newdoc
+com.apple.instruments.usage
+com.apple.ioacceleratorfamily.gpu_hang
+com.apple.iphoto.print_products_carousel
+com.apple.iphoto.print_products_creation
+com.apple.iphoto.print_products_order
+com.apple.java.usage2.DownloadOnDemand.complete
+com.apple.java.usage2.DownloadOnDemand.request
+com.apple.java.usage2.InstalledJVMs
+com.apple.kernel.tcpstat
+com.apple.legacyfilevault.usage2
+com.apple.libkext.kext.blocked
+com.apple.loginwindow.autologin
+com.apple.macbuddy.firstlogin.phase2.difference
+com.apple.macbuddy.phase1.duration
+com.apple.macbuddy.phase2.allotted
+com.apple.macbuddy.phase2.duration
+com.apple.mail.exchange.serveroverload
+com.apple.mail.favoritesBarUsage
+com.apple.mail.fullScreenComposeFinished
+com.apple.mail.uiLayout
+com.apple.mainstage.app_launched
+com.apple.mainstage.audiocycleusage
+com.apple.mainstage.buffersize
+com.apple.mainstage.iosafetybuffer
+com.apple.mainstage.rewire
+com.apple.mainstage.template
+com.apple.maps.modeswitch.time
+com.apple.massStorage.diskStatistics.disk
+com.apple.massStorage.diskStatistics.volume
+com.apple.massStorage.ssdStatistics.attributes
+com.apple.massstorage.firmwareupdatestats
+com.apple.migration.mac.perf
+com.apple.migration.mac.result
+com.apple.migration.mac.started
+com.apple.migration.pc.result
+com.apple.migration.pc.started
+com.apple.migration.progress.UnderOneMinuteRemaining
+com.apple.motion.3rd_party_fxplug_usage
+com.apple.motion.effect.usage
+com.apple.motion.effect.usage.v2
+com.apple.motion.feature_usage
+com.apple.motion.media_usage
+com.apple.motion.new_project_info
+com.apple.motion.share_destinations
+com.apple.motion.text.language
+com.apple.motion.ui.usage
+com.apple.networksetup.open
+com.apple.networksetup.success
+com.apple.notes.accountStatistics
+com.apple.printing.addprinter.haddriver
+com.apple.printing.addprinter.nodriver
+com.apple.printing.custompaper.newpaper
+com.apple.printing.custompaper.showmanager
+com.apple.printing.deprecated
+com.apple.printing.ipp.conformance
+com.apple.printing.printdialog.dialogswitch
+com.apple.printing.proxy.fixpermissions
+com.apple.printing.usb.64bit
+com.apple.qtplugin.acodec
+com.apple.qtplugin.client
+com.apple.qtplugin.features
+com.apple.qtplugin.media.reference_movie
+com.apple.qtplugin.media.resolution
+com.apple.qtplugin.media.scheme
+com.apple.qtplugin.media.track
+com.apple.qtplugin.media.type
+com.apple.qtplugin.track
+com.apple.qtplugin.usage
+com.apple.qtplugin.vcodec
+com.apple.quicktime.qtjava-jni-onload
+com.apple.reminders.alarmType
+com.apple.reminders.displayedListType
+com.apple.reminders.dragEvent
+com.apple.reminders.eliminated
+com.apple.reminders.inspectorOpened
+com.apple.reminders.listCreated
+com.apple.reminders.metadataChanged
+com.apple.reminders.miniMonthState
+com.apple.reminders.opened
+com.apple.reminders.reminderCreated
+com.apple.reminders.secondaryWindows
+com.apple.reminders.sidebarState
+com.apple.reminders.titleChanged
+com.apple.reminders.viewToggle
+com.apple.remotedesktop.interact.v002
+com.apple.remotedesktop.interactScreen.v002
+com.apple.remotedesktop.report.v002
+com.apple.remotedesktop.scannerType
+com.apple.sandman.acAttachData
+com.apple.sandman.darkWakeData
+com.apple.sandman.wakeData
+com.apple.screensaverengine.screensaverexit
+com.apple.scrolling.direction
+com.apple.scrolling.scroller_preferred
+com.apple.scrolling.scroller_visibility
+com.apple.security.assessment.state
+com.apple.security.assessment.whitelist
+com.apple.server.apache.launch.stats
+com.apple.server.assetcache.dailyStats
+com.apple.server.connection_stats
+com.apple.server.datastore_stats
+com.apple.server.error_stats
+com.apple.server.hostname_usage_2_2
+com.apple.server.miscellaneous_usage_2_2
+com.apple.server.profilemanager.useragent
+com.apple.server.service_running_time
+com.apple.server.service_running_time_2_1
+com.apple.server.service_usage
+com.apple.server.service_usage_2_1
+com.apple.server.setup_errors_3_0
+com.apple.server.setup_stats_3_0
+com.apple.server.tutorial_stats
+com.apple.server.usage_stats_3_0
+com.apple.server.xcs.dailyStats
+com.apple.sleep.failure
+com.apple.submission.domains
+com.apple.submission.virtual
+com.apple.submission.virtual.day
+com.apple.submitdiaginfo.asl_truncated
+com.apple.submitdiaginfo.huge_asl_files
+com.apple.suis.menuextra.deleted
+com.apple.suis.menuextra.reordered
+com.apple.systemconfig.matchResolutionTo
+com.apple.systemconfig.nativeResolutionSelected
+com.apple.tmharvest.run
+com.apple.usage.activetime
+com.apple.usage.activity_stats
+com.apple.usage.app_activetime
+com.apple.usage.errors.activetime
+com.apple.usage.esd.installmethod
+com.apple.usage.esd.targetvolume
+com.apple.usage.fde.enabled
+com.apple.voiceover.features
+com.apple.voiceover.features.webNavigation
+com.apple.windowserver.airplay
+com.apple.windowserver.mux_ca
+com.apple.windowserver.mux_ci
+com.apple.windowserver.mux_cl
+com.apple.windowserver.mux_gl
+com.apple.windowserver.muxuptime
+com.apple.wireless_diagnostics.diagnose
+com.apple.wireless_diagnostics.frame_capture
+com.apple.wireless_diagnostics.log
+com.apple.wireless_diagnostics.monitor
+com.apple.wireless_diagnostics.test_case
+com.apple.xsan.dailyStats

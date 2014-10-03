@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppPathsWithoutHelpBooksKey</key>
+	<array>
+		<string>/Applications/Adobe/Adobe Content Viewer.app</string>
+		<string>/Applications/Adobe/Adobe Help.app</string>
+		<string>/Applications/Adobe/Adobe Widget Browser.app</string>
+		<string>/Applications/Adobe Acrobat XI Pro/Acrobat Distiller.app</string>
+		<string>/Applications/Adobe Acrobat XI Pro/Adobe Acrobat Pro.app</string>
+		<string>/Applications/Adobe Acrobat XI Pro/FormsCentral For Acrobat.app</string>
+		<string>/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app</string>
+		<string>/Applications/Adobe Device Central CS5/Adobe Device Central CS5.app</string>
+		<string>/Applications/Adobe Dreamweaver CS6/Adobe Dreamweaver CS6.app</string>
+		<string>/Applications/Adobe Extension Manager CS5/Adobe Extension Manager CS5.app</string>
+		<string>/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app</string>
+		<string>/Applications/Adobe Fireworks CS6/Adobe Fireworks CS6.app</string>
+		<string>/Applications/Adobe Flash CS5/Adobe Flash CS5.app</string>
+		<string>/Applications/Adobe Flash CS6/Adobe Flash CS6.app</string>
+		<string>/Applications/Adobe Illustrator CS6/Adobe Illustrator.app</string>
+		<string>/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app</string>
+		<string>/Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app</string>
+		<string>/Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app</string>
+		<string>/Applications/Adobe Media Player.app</string>
+		<string>/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app</string>
+		<string>/Applications/Adobe Photoshop Lightroom 4.app</string>
+		<string>/Applications/Alfred 2.app</string>
+		<string>/Applications/Arduino.app</string>
+		<string>/Applications/BlogStomp.app</string>
+		<string>/Applications/Caffeine.app</string>
+		<string>/Applications/calibre.app</string>
+		<string>/Applications/CCleaner.app</string>
+		<string>/Applications/Dashboard.app</string>
+		<string>/Applications/DPS App Builder.app</string>
+		<string>/Applications/Dropbox.app</string>
+		<string>/Applications/Evernote.app</string>
+		<string>/Applications/FileZilla.app</string>
+		<string>/Applications/Firefox.app</string>
+		<string>/Applications/Google Chrome.app</string>
+		<string>/Applications/Google Earth.app</string>
+		<string>/Applications/HexEdit Release/HexEdit.app</string>
+		<string>/Applications/iShowU HD.app</string>
+		<string>/Applications/Kindle.app</string>
+		<string>/Applications/Launchpad.app</string>
+		<string>/Applications/MacVim-snapshot-66/MacVim.app</string>
+		<string>/Applications/MampStack.app</string>
+		<string>/Applications/Microsoft Lync.app</string>
+		<string>/Applications/Minecraft.app</string>
+		<string>/Applications/Mission Control.app</string>
+		<string>/Applications/MySQLWorkbench.app</string>
+		<string>/Applications/NetBeans/NetBeans 7.3.1.app</string>
+		<string>/Applications/Network Connect.app</string>
+		<string>/Applications/Processing.app</string>
+		<string>/Applications/Scratch 1.4/Scratch.app</string>
+		<string>/Applications/SketchUp 2013/LayOut.app</string>
+		<string>/Applications/SketchUp 2013/SketchUp.app</string>
+		<string>/Applications/SketchUp 2013/Style Builder.app</string>
+		<string>/Applications/Skitch.app</string>
+		<string>/Applications/Skype.app</string>
+		<string>/Applications/System Preferences.app</string>
+		<string>/Applications/Time Machine.app</string>
+		<string>/Applications/TorBrowser_en-US.app</string>
+		<string>/Applications/TrueCrypt.app</string>
+		<string>/Applications/Utilities/Adobe AIR Application Installer.app</string>
+		<string>/Applications/Utilities/Adobe AIR Uninstaller.app</string>
+		<string>/Applications/Utilities/Adobe Flash Player Install Manager.app</string>
+		<string>/Applications/Utilities/Bluetooth File Exchange.app</string>
+		<string>/Applications/Utilities/Boot Camp Assistant.app</string>
+		<string>/Applications/Utilities/Migration Assistant.app</string>
+		<string>/Applications/Utilities/ODBC Manager.app</string>
+		<string>/Applications/Utilities/VoiceOver Utility.app</string>
+		<string>/Applications/Utilities/X11.app</string>
+		<string>/Applications/Utilities/XQuartz.app</string>
+		<string>/Applications/uTorrent.app</string>
+		<string>/Applications/VLC.app</string>
+		<string>/Applications/Xcode.app</string>
+		<string>/Applications/Audacity/Audacity.app</string>
+		<string>/Applications/Genymotion Shell.app</string>
+		<string>/Applications/Genymotion.app</string>
+		<string>/Applications/HandBrake.app</string>
+		<string>/Applications/VirtualBox.app</string>
+		<string>/Applications/AlbumStomp.app</string>
+		<string>/Applications/Amazon Cloud Player.app</string>
+		<string>/Applications/Box Sync.app</string>
+		<string>/Applications/Free MP4 Converter.app</string>
+		<string>/Applications/GitHub.app</string>
+		<string>/Applications/HTC Sync Manager.app</string>
+		<string>/Applications/BookSmart.app</string>
+		<string>/Applications/GoToMeeting (1440).app</string>
+		<string>/Applications/Amazon Music.app</string>
+		<string>/Applications/Android File Transfer.app</string>
+		<string>/Applications/Autodesk/Autodesk 360.app</string>
+		<string>/Applications/Citrix Receiver.app</string>
+		<string>/Applications/Fitbit Connect.app</string>
+		<string>/Applications/GoToMeeting (1350).app</string>
+		<string>/Applications/GoToMeeting (1468).app</string>
+		<string>/Applications/GoToMeeting (1555).app</string>
+		<string>/Applications/GoToMeeting (1558).app</string>
+		<string>/Applications/Meshmixer.app</string>
+		<string>/Applications/SketchBook.app</string>
+		<string>/Applications/Spotify.app</string>
+	</array>
+	<key>CacheLanguageKey</key>
+	<string>en</string>
+	<key>SystemVersionKey</key>
+	<string>10.9.4</string>
+	<key>UserBooksKey</key>
+	<dict>
+		<key>com.TechSmith.Snagit.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Snagit.app/Contents/Resources/Snagit Help/SnagitHelp.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Snagit.app/Contents/Resources/Snagit Help/gfx/iconSmall.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.TechSmith.Snagit.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Snagit.app/Contents/Resources/Snagit Help/Snagit Help.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Snagit.app/Contents/Resources/Snagit Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Snagit Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.ActivityMonitor.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>16.7</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Activity Monitor.app/Contents/Resources/ActivityMonitor.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Activity Monitor.app/Contents/Resources/ActivityMonitor.help/Contents/Resources/actmnik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.ActivityMonitor.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Activity Monitor.app/Contents/Resources/ActivityMonitor.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kam</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Activity Monitor.app/Contents/Resources/ActivityMonitor.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/activitymonitor/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Activity Monitor Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.AddressBook.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>43.9</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Contacts.app/Contents/Resources/AddressBook.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Contacts.app/Contents/Resources/AddressBook.help/Contents/Resources/adbic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.AddressBook.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Contacts.app/Contents/Resources/AddressBook.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kab</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Contacts.app/Contents/Resources/AddressBook.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/contacts/mac/8.0/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Contacts Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.AppStore.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>6.5</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/frnic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.AppStore.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/App Store.app/Contents/Resources/AppStore.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/appstore/mac/1.2/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>App Store Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.AudioMIDISetup.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>16.8</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Audio MIDI Setup.app/Contents/Resources/AudioMIDISetup.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Audio MIDI Setup.app/Contents/Resources/AudioMIDISetup.help/Contents/Resources/audik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.AudioMIDISetup.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Audio MIDI Setup.app/Contents/Resources/AudioMIDISetup.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kmidi</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Audio MIDI Setup.app/Contents/Resources/AudioMIDISetup.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/audiomidisetup/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Audio MIDI Setup Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Automator.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>18.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Automator.app/Contents/Resources/Automator.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Automator.app/Contents/Resources/Automator.help/Contents/Resources/autik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Automator.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Automator.app/Contents/Resources/Automator.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kauto</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Automator.app/Contents/Resources/Automator.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/automator/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Automator Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Calculator.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>17.14</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Calculator.app/Contents/Resources/Calculator.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Calculator.app/Contents/Resources/Calculator.help/Contents/Resources/calclik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Calculator.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Calculator.app/Contents/Resources/Calculator.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kcalc</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Calculator.app/Contents/Resources/Calculator.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/calculator/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Calculator Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Chess.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>12.3</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Chess.app/Contents/Resources/Chess.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Chess.app/Contents/Resources/Chess.help/Contents/Resources/chssik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Chess.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Chess.app/Contents/Resources/Chess.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kchess</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Chess.app/Contents/Resources/Chess.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/chess/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Chess Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Console.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>15.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Console.app/Contents/Resources/Console.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Console.app/Contents/Resources/Console.help/Contents/Resources/cnslik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Console.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Console.app/Contents/Resources/Console.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kconsole</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Console.app/Contents/Resources/Console.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/console/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Console Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.DVDPlayer.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>340.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/DVD Player.app/Contents/Resources/DVDPlayer.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/DVD Player.app/Contents/Resources/DVDPlayer.help/Contents/Resources/dvik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.DVDPlayer.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/DVD Player.app/Contents/Resources/DVDPlayer.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kdp</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/DVD Player.app/Contents/Resources/DVDPlayer.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/dvdplayer/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>DVD Player Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Dictionary.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>13.10</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Dictionary.app/Contents/Resources/Dictionary.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Dictionary.app/Contents/Resources/Dictionary.help/Contents/Resources/dctik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Dictionary.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Dictionary.app/Contents/Resources/Dictionary.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kdict</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Dictionary.app/Contents/Resources/Dictionary.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/dictionary/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Dictionary Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.DiskUtility.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>19.8</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Disk Utility.app/Contents/Resources/DiskUtility.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookExactMatchPath</key>
+			<string>/Applications/Utilities/Disk Utility.app/Contents/Resources/DiskUtility.help/Contents/Resources/en.lproj/ExactMatch.plist</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Disk Utility.app/Contents/Resources/DiskUtility.help/Contents/Resources/dfaik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.DiskUtility.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Disk Utility.app/Contents/Resources/DiskUtility.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kdu</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Disk Utility.app/Contents/Resources/DiskUtility.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/diskutility/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Disk Utility Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.FontBook.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>18.7</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Font Book.app/Contents/Resources/FontBook.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Font Book.app/Contents/Resources/FontBook.help/Contents/Resources/fntbkik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.FontBook.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Font Book.app/Contents/Resources/FontBook.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kfont</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Font Book.app/Contents/Resources/FontBook.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/fontbook/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Font Book Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Grapher.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>8.8</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Grapher.app/Contents/Resources/Grapher.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Grapher.app/Contents/Resources/Grapher.help/Contents/Resources/grclcik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Grapher.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Grapher.app/Contents/Resources/Grapher.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kgraph</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Grapher.app/Contents/Resources/Grapher.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/grapher/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Grapher Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.HelpCenter.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>9.9</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Library/Documentation/Help/HelpCenter.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Library/Documentation/Help/HelpCenter.help/Contents/Resources/MOSik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.HelpCenter.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Library/Documentation/Help/HelpCenter.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Library/Documentation/Help/HelpCenter.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/helpcenter/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Help Center</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.ImageCapture.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>27.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Image Capture.app/Contents/Resources/ImageCapture.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Image Capture.app/Contents/Resources/ImageCapture.help/Contents/Resources/imcpic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.ImageCapture.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Image Capture.app/Contents/Resources/ImageCapture.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kic</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Image Capture.app/Contents/Resources/ImageCapture.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/imagecapture/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Image Capture Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Mail.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>202.28</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Mail.app/Contents/Resources/Mail.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Mail.app/Contents/Resources/Mail.help/Contents/Resources/mlic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Mail.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Mail.app/Contents/Resources/Mail.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kmail</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Mail.app/Contents/Resources/Mail.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/mail/mac/7.0/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Mail Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Maps.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>1.9</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Maps.app/Contents/Resources/Maps.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Maps.app/Contents/Resources/Maps.help/Contents/Resources/mp.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Maps.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Maps.app/Contents/Resources/Maps.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Maps.app/Contents/Resources/Maps.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/maps/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Maps Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Notes.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>2.16</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Notes.app/Contents/Resources/Notes.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Notes.app/Contents/Resources/Notes.help/Contents/Resources/icnnotes.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Notes.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Notes.app/Contents/Resources/Notes.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>KBProduct</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Notes.app/Contents/Resources/Notes.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/notes/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Notes Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.PhotoBooth.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>14.9</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Photo Booth.app/Contents/Resources/PhotoBooth.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Photo Booth.app/Contents/Resources/PhotoBooth.help/Contents/Resources/pbic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.PhotoBooth.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Photo Booth.app/Contents/Resources/PhotoBooth.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kbooth</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Photo Booth.app/Contents/Resources/PhotoBooth.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/photobooth/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Photo Booth Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Preview.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>27.5</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Preview.app/Contents/Resources/Preview.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookExactMatchPath</key>
+			<string>/Applications/Preview.app/Contents/Resources/Preview.help/Contents/Resources/en.lproj/ExactMatch.plist</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Preview.app/Contents/Resources/Preview.help/Contents/Resources/pctvic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Preview.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Preview.app/Contents/Resources/Preview.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kpreview</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Preview.app/Contents/Resources/Preview.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/preview/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Preview Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.QuickTimePlayerX.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>28.6</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/QuickTime Player.app/Contents/Resources/QuickTimePlayerX.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/QuickTime Player.app/Contents/Resources/QuickTimePlayerX.help/Contents/Resources/QTIcon.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.QuickTimePlayerX.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/QuickTime Player.app/Contents/Resources/QuickTimePlayerX.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kmosx6</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/QuickTime Player.app/Contents/Resources/QuickTimePlayerX.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/quicktimeplayerx/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>QuickTime Player Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Safari.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>45.10</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Safari.app/Contents/Resources/Safari.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Safari.app/Contents/Resources/Safari.help/Contents/Resources/IBikb.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Safari.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Safari.app/Contents/Resources/Safari.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>ksafari</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Safari.app/Contents/Resources/Safari.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/safari/mac/7.0/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Safari Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.ScriptEditor.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>15.7</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/AppleScript Editor.app/Contents/Resources/ScriptEditor.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/AppleScript Editor.app/Contents/Resources/ScriptEditor.help/Contents/Resources/asik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.ScriptEditor.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/AppleScript Editor.app/Contents/Resources/ScriptEditor.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kse</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/AppleScript Editor.app/Contents/Resources/ScriptEditor.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/scripteditor/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>AppleScript Editor Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Stickies.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>15.12</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Stickies.app/Contents/Resources/Stickies.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Stickies.app/Contents/Resources/Stickies.help/Contents/Resources/stkik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Stickies.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Stickies.app/Contents/Resources/Stickies.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kstick</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Stickies.app/Contents/Resources/Stickies.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/stickies/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Stickies Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.SystemInformation.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>12.6</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/System Information.app/Contents/Resources/SystemInformation.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/System Information.app/Contents/Resources/SystemInformation.help/Contents/Resources/aspik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.SystemInformation.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/System Information.app/Contents/Resources/SystemInformation.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>ksp</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/System Information.app/Contents/Resources/SystemInformation.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/systemprofiler/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>System Information Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.Terminal.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>17.6</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Terminal.app/Contents/Resources/Terminal.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Terminal.app/Contents/Resources/Terminal.help/Contents/Resources/trmlik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.Terminal.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Terminal.app/Contents/Resources/Terminal.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kterm</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Terminal.app/Contents/Resources/Terminal.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/terminal/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Terminal Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.TextEdit.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>26.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/TextEdit.app/Contents/Resources/TextEdit.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/TextEdit.app/Contents/Resources/TextEdit.help/Contents/Resources/txteic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.TextEdit.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/TextEdit.app/Contents/Resources/TextEdit.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kte</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/TextEdit.app/Contents/Resources/TextEdit.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/textedit/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>TextEdit Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.VoiceOver.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>18.6</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Library/Documentation/Help/VoiceOver.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Library/Documentation/Help/VoiceOver.help/Contents/Resources/voik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.VoiceOver.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Library/Documentation/Help/VoiceOver.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kvo</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Library/Documentation/Help/VoiceOver.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/voiceover/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>VoiceOver Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.airport.airportutility.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>22.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/AirPort Utility.app/Contents/Resources/AirPortUtility.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/AirPort Utility.app/Contents/Resources/AirPortUtility.help/Contents/Resources/arik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.airport.airportutility.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/AirPort Utility.app/Contents/Resources/AirPortUtility.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>https://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'&amp;build='build'</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/AirPort Utility.app/Contents/Resources/AirPortUtility.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/aputility/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>AirPort Utility Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.colorsyncutility.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>6.7</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/ColorSync Utility.app/Contents/Resources/ColorSyncUtility.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/ColorSync Utility.app/Contents/Resources/ColorSyncUtility.help/Contents/Resources/csyik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.colorsyncutility.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/ColorSync Utility.app/Contents/Resources/ColorSyncUtility.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/ColorSync Utility.app/Contents/Resources/ColorSyncUtility.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/colorsyncutility/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Color Sync Utility Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.digitalcolormeter.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>6.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/DigitalColor Meter.app/Contents/Resources/DigitalColorMeter.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/DigitalColor Meter.app/Contents/Resources/DigitalColorMeter.help/Contents/Resources/dcmik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.digitalcolormeter.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/DigitalColor Meter.app/Contents/Resources/DigitalColorMeter.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/DigitalColor Meter.app/Contents/Resources/DigitalColorMeter.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/digitalcolormeter/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Digital Color Meter Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.facetime.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>8.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/FaceTime.app/Contents/Resources/FaceTime.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/FaceTime.app/Contents/Resources/FaceTime.help/Contents/Resources/fctmic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.facetime.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/FaceTime.app/Contents/Resources/FaceTime.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kfctm</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/FaceTime.app/Contents/Resources/FaceTime.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/facetime/mac/3.0/help/</string>
+			<key>HPDBookTitle</key>
+			<string>FaceTime Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.gamecenter.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>5.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Game Center.app/Contents/Resources/GameCenter.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Game Center.app/Contents/Resources/GameCenter.help/Contents/Resources/icngamecenter.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.gamecenter.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Game Center.app/Contents/Resources/GameCenter.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>KBProduct</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Game Center.app/Contents/Resources/GameCenter.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/gamecenter/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Game Center Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.garageband.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>115</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/GarageBand.app/Contents/Resources/garageband.help/Contents/Resources/English.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/GarageBand.app/Contents/Resources/garageband.help/Contents/Resources/Art/xicngbnd.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.garageband.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/GarageBand.app/Contents/Resources/garageband.help/Contents/Resources/English.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kband11</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;amp;lang=en&amp;amp;as_oq='product'&amp;amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>English</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/GarageBand.app/Contents/Resources/garageband.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/garageband/mac/6.0.5/help/</string>
+			<key>HPDBookTitle</key>
+			<string>GarageBand ’11 Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.grab.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>6.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Grab.app/Contents/Resources/Grab.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Grab.app/Contents/Resources/Grab.help/Contents/Resources/grbik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.grab.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Grab.app/Contents/Resources/Grab.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Grab.app/Contents/Resources/Grab.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/grab/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Grab Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iBooksX.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>1.23</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/iBooks.app/Contents/Resources/iBooksX.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/iBooks.app/Contents/Resources/iBooksX.help/Contents/Resources/xicnibk.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iBooksX.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/iBooks.app/Contents/Resources/iBooksX.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kmosx6</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/iBooks.app/Contents/Resources/iBooksX.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/iBooks/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>iBooks Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iCal.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>96.10</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Calendar.app/Contents/Resources/iCal.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookExactMatchPath</key>
+			<string>/Applications/Calendar.app/Contents/Resources/iCal.help/Contents/Resources/en.lproj/ExactMatch.plist</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Calendar.app/Contents/Resources/iCal.help/Contents/Resources/wric.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iCal.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Calendar.app/Contents/Resources/iCal.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kical</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Calendar.app/Contents/Resources/iCal.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/calendar/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Calendar Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iChat.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>41.4</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Messages.app/Contents/Resources/iChat.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Messages.app/Contents/Resources/iChat.help/Contents/Resources/ichic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iChat.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Messages.app/Contents/Resources/iChat.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kichat</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Messages.app/Contents/Resources/iChat.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/messages/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Messages Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iMovieApp.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>27</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help/Contents/Resources/en.lproj/Art/xicnimov.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iMovieApp.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kimovie11</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/imovie/mac/10.0/help/</string>
+			<key>HPDBookTitle</key>
+			<string>iMovie Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iMovieApp10.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>21</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help/Contents/Resources/en.lproj/Art/xicnimov.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iMovieApp10.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kimovie11</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/iMovie.app/Contents/Resources/iMovieApp.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/imovie/mac/10.0/help/</string>
+			<key>HPDBookTitle</key>
+			<string>iMovie Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iPhoto.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>6.9</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/iPhoto.app/Contents/Resources/iPhoto.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/iPhoto.app/Contents/Resources/iPhoto.help/Contents/Resources/en.lproj/Art/xicnsc.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iPhoto.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/iPhoto.app/Contents/Resources/iPhoto.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kiphoto11</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/iPhoto.app/Contents/Resources/iPhoto.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/iphoto/mac/9.5/help/</string>
+			<key>HPDBookTitle</key>
+			<string>iPhoto Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iTunes.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>225</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/iTunes.app/Contents/Resources/iTunes.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/iTunes.app/Contents/Resources/iTunes.help/Contents/Resources/en.lproj/Art/xicnitns.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iTunes.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/iTunes.app/Contents/Resources/iTunes.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kitunes</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/iTunes.app/Contents/Resources/iTunes.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/itunes/mac/11.2/help/</string>
+			<key>HPDBookTitle</key>
+			<string>iTunes Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.iWork.Keynote.remote.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>7.0</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Keynote.app/Contents/Resources/keynote.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Keynote.app/Contents/Resources/keynote.help/Contents/Resources/xicnkynt.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.iWork.Keynote.remote.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Keynote.app/Contents/Resources/keynote.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kynote09</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Keynote.app/Contents/Resources/keynote.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/keynote/mac/6.0/</string>
+			<key>HPDBookTitle</key>
+			<string>Keynote Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+			<key>HPDBookUsesExternalViewer</key>
+			<true/>
+		</dict>
+		<key>com.apple.keychainaccess.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>6.7</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Utilities/Keychain Access.app/Contents/Resources/KeychainAccess.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookExactMatchPath</key>
+			<string>/Applications/Utilities/Keychain Access.app/Contents/Resources/KeychainAccess.help/Contents/Resources/en.lproj/ExactMatch.plist</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Utilities/Keychain Access.app/Contents/Resources/KeychainAccess.help/Contents/Resources/keyik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.keychainaccess.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Utilities/Keychain Access.app/Contents/Resources/KeychainAccess.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Utilities/Keychain Access.app/Contents/Resources/KeychainAccess.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/keychainaccess/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Keychain Access Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.machelp</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>414.26</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Library/Documentation/Help/MacHelp.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookExactMatchPath</key>
+			<string>/Library/Documentation/Help/MacHelp.help/Contents/Resources/en.lproj/ExactMatch.plist</string>
+			<key>HPDBookIconPath</key>
+			<string>/Library/Documentation/Help/MacHelp.help/Contents/Resources/MOSik.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.machelp</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Library/Documentation/Help/MacHelp.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>kmosx6</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Library/Documentation/Help/MacHelp.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/machelp/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Mac Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.apple.reminders.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>3.9</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Reminders.app/Contents/Resources/reminders.help/Contents/Resources/en.lproj/redirect.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Reminders.app/Contents/Resources/reminders.help/Contents/Resources/icnreminders.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.apple.reminders.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Reminders.app/Contents/Resources/reminders.help/Contents/Resources/en.lproj/search.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>KBProduct</string>
+			<key>HPDBookKBURL</key>
+			<string>http://www.info.apple.com/searchredir.html?bucket=helpviewer&amp;lang='lang'&amp;as_oq='product'&amp;val='query'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Reminders.app/Contents/Resources/reminders.help</string>
+			<key>HPDBookRemoteURL</key>
+			<string>https://help.apple.com/reminders/mac/10.9/help/</string>
+			<key>HPDBookTitle</key>
+			<string>Reminders Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.googlecode.iterm2.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/iTerm.app/Contents/Resources/OnlineHelp/index.html</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.googlecode.iterm2.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/iTerm.app/Contents/Resources/OnlineHelp/OnlineHelp.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/iTerm.app/Contents/Resources/OnlineHelp</string>
+			<key>HPDBookTitle</key>
+			<string>com.googlecode.iterm2.help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.microsoft.DocumentConnection.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Document Connection.app/Contents/Resources/en.lproj/Help/Home.htm</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Document Connection.app/Contents/Resources/en.lproj/Help/rsrc/DocConnection.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.microsoft.DocumentConnection.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Microsoft Office 2011/Microsoft Document Connection.app/Contents/Resources/en.lproj/Help/DocumentConnection.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>doc_connect</string>
+			<key>HPDBookKBURL</key>
+			<string>null</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Document Connection.app/Contents/Resources/en.lproj/Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Document Connection Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.microsoft.Excel.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Excel.app/Contents/Resources/en.lproj/Help/Home.htm</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Excel.app/Contents/Resources/en.lproj/Help/rsrc/excel.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.microsoft.Excel.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Microsoft Office 2011/Microsoft Excel.app/Contents/Resources/en.lproj/Help/Excel.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>excel</string>
+			<key>HPDBookKBURL</key>
+			<string>null</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Excel.app/Contents/Resources/en.lproj/Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Excel Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.microsoft.Messenger.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Microsoft Messenger.app/Contents/Resources/en.lproj/Help/Home.htm</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Microsoft Messenger.app/Contents/Resources/en.lproj/Help/rsrc/messenger.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.microsoft.Messenger.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Microsoft Messenger.app/Contents/Resources/en.lproj/Help/Messenger.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>messenger</string>
+			<key>HPDBookKBURL</key>
+			<string>null</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Microsoft Messenger.app/Contents/Resources/en.lproj/Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Messenger Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.microsoft.Outlook.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Outlook.app/Contents/Resources/en.lproj/Help/Home.htm</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Outlook.app/Contents/Resources/en.lproj/Help/rsrc/outlook.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.microsoft.Outlook.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Microsoft Office 2011/Microsoft Outlook.app/Contents/Resources/en.lproj/Help/Outlook.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>outlook</string>
+			<key>HPDBookKBURL</key>
+			<string>null</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Outlook.app/Contents/Resources/en.lproj/Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Outlook Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.microsoft.Powerpoint.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft PowerPoint.app/Contents/Resources/en.lproj/Help/Home.htm</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft PowerPoint.app/Contents/Resources/en.lproj/Help/rsrc/powerpoint.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.microsoft.Powerpoint.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Microsoft Office 2011/Microsoft PowerPoint.app/Contents/Resources/en.lproj/Help/PowerPoint.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>powerpoint</string>
+			<key>HPDBookKBURL</key>
+			<string>null</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft PowerPoint.app/Contents/Resources/en.lproj/Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>PowerPoint Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.microsoft.Word.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Word.app/Contents/Resources/en.lproj/Help/Home.htm</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Word.app/Contents/Resources/en.lproj/Help/rsrc/word.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.microsoft.Word.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Microsoft Office 2011/Microsoft Word.app/Contents/Resources/en.lproj/Help/Word.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>word</string>
+			<key>HPDBookKBURL</key>
+			<string>null</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Microsoft Office 2011/Microsoft Word.app/Contents/Resources/en.lproj/Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Word Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.microsoft.rdc.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Remote Desktop Connection.app/Contents/Resources/en.lproj/Help/Home.htm</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Remote Desktop Connection.app/Contents/Resources/en.lproj/Help/rsrc/rdc.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.microsoft.rdc.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Remote Desktop Connection.app/Contents/Resources/en.lproj/Help/RDC.helpindex</string>
+			</array>
+			<key>HPDBookKBProduct</key>
+			<string>rdc</string>
+			<key>HPDBookKBURL</key>
+			<string>null</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Remote Desktop Connection.app/Contents/Resources/en.lproj/Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Remote Desktop Connection Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.omnigroup.OmniGrafflePro.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/OmniGraffle Professional 5.app/Contents/Resources/English.lproj/OmniGraffle Help/top.html</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.omnigroup.OmniGrafflePro.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/OmniGraffle Professional 5.app/Contents/Resources/English.lproj/OmniGraffle Help/OmniGraffle Help.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>English</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/OmniGraffle Professional 5.app/Contents/Resources/English.lproj/OmniGraffle Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>OmniGraffle Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.panic.Coda2.help</key>
+		<dict>
+			<key>CFBundleVersion</key>
+			<string>1</string>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Coda 2.app/Contents/Resources/CodaHelp/Contents/Resources/English.lproj/CodaHelp.html</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.panic.Coda2.help</string>
+			<key>HPDBookKBProduct</key>
+			<string>coda2</string>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>English</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Coda 2.app/Contents/Resources/CodaHelp</string>
+			<key>HPDBookTitle</key>
+			<string>Coda Help</string>
+			<key>HPDBookType</key>
+			<integer>3</integer>
+		</dict>
+		<key>com.stuffit.StuffIt-Expander.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/StuffIt Expander.app/Contents/Resources/English.lproj/StuffIt Expander Help/index.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/StuffIt Expander.app/Contents/Resources/English.lproj/StuffIt Expander Help/icon16.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.stuffit.StuffIt-Expander.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/StuffIt Expander.app/Contents/Resources/English.lproj/StuffIt Expander Help/StuffIt Expander Help.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>English</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/StuffIt Expander.app/Contents/Resources/English.lproj/StuffIt Expander Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>StuffIt Expander Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.titanium.OnyX.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/OnyX.app/Contents/Resources/en.lproj/OnyXHelp/OnyXHelp.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/OnyX.app/Contents/Resources/en.lproj/OnyXHelp/gfx/onyxic.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.titanium.OnyX.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/OnyX.app/Contents/Resources/en.lproj/OnyXHelp/OnyXHelp.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>en</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/OnyX.app/Contents/Resources/en.lproj/OnyXHelp</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>OnyX Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.vmware.fusion.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/VMware Fusion.app/Contents/Resources/English.lproj/onlinehelp/index.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/VMware Fusion.app/Contents/Resources/English.lproj/onlinehelp/GUID-8C76F424-0598-48BE-A8E7-585F285C4283-low.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>com.vmware.fusion.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/VMware Fusion.app/Contents/Resources/English.lproj/onlinehelp/onlinehelp.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookLocalizationKey</key>
+			<string>English</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/VMware Fusion.app/Contents/Resources/English.lproj/onlinehelp</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>VMware Fusion Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+		<key>net.telestream.Flip-Player.help</key>
+		<dict>
+			<key>HPDBookAccessPath</key>
+			<string>/Applications/Flip Player.app/Contents/Resources/Flip Player Help/index.html</string>
+			<key>HPDBookIconPath</key>
+			<string>/Applications/Flip Player.app/Contents/Resources/Flip Player Help/flip4macLogo.png</string>
+			<key>HPDBookIdentifier</key>
+			<string>net.telestream.Flip-Player.help</string>
+			<key>HPDBookIndexPaths</key>
+			<array>
+				<string>/Applications/Flip Player.app/Contents/Resources/Flip Player Help/Flip Player Help.helpindex</string>
+			</array>
+			<key>HPDBookKBURL</key>
+			<string>https://support.apple.com/www/searchredir.html?bucket=helpviewer&amp;as_oq='product'&amp;val='query'&amp;lang='lang'&amp;build='build'</string>
+			<key>HPDBookPathKey</key>
+			<string>/Applications/Flip Player.app/Contents/Resources/Flip Player Help</string>
+			<key>HPDBookStringEncodingKey</key>
+			<integer>4</integer>
+			<key>HPDBookTitle</key>
+			<string>Flip Player 3.0 Help</string>
+			<key>HPDBookType</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
